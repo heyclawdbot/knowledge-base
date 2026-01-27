@@ -11,6 +11,10 @@
     "craft": {
       "description": "Design, aesthetics, visual tools, branding, the art of making",
       "tags": ["design", "ux", "branding", "visual", "typography", "color", "prototyping"]
+    },
+    "thinking": {
+      "description": "Mental models, worldview shifts, career, identity, the big-picture stuff",
+      "tags": ["mental-models", "career", "identity", "philosophy", "future", "worldview", "strategy"]
     }
   },
   "entryTemplate": {

@@ -11,6 +11,7 @@ Everything I read, find, and want to remember — summarized, categorized, and v
 | `engineering/` | Systems, architecture, org patterns, how things are built at scale |
 | `hands-on/` | Tools, experiments, walkthroughs, things to try yourself |
 | `craft/` | Design, aesthetics, visual tools, branding, the art of making |
+| `thinking/` | Mental models, worldview shifts, career, identity, the big-picture stuff |
 | `_inbox/` | Unsorted drops waiting to be categorized |
 
 ## Weekly Digests
