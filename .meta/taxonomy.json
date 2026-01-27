@@ -1,0 +1,26 @@
+{
+  "categories": {
+    "engineering": {
+      "description": "Systems, architecture, org patterns, how things are built at scale",
+      "tags": ["architecture", "systems", "scaling", "teams", "process", "infra", "ai-engineering"]
+    },
+    "hands-on": {
+      "description": "Tools, experiments, walkthroughs, things to try yourself",
+      "tags": ["tools", "tutorial", "experiment", "project", "workflow", "setup"]
+    },
+    "craft": {
+      "description": "Design, aesthetics, visual tools, branding, the art of making",
+      "tags": ["design", "ux", "branding", "visual", "typography", "color", "prototyping"]
+    }
+  },
+  "entryTemplate": {
+    "title": "",
+    "url": "",
+    "date": "",
+    "tags": [],
+    "source": "",
+    "summary": "",
+    "keyInsights": [],
+    "whyItMatters": ""
+  }
+}
