@@ -15,6 +15,10 @@
     "thinking": {
       "description": "Mental models, worldview shifts, career, identity, the big-picture stuff",
       "tags": ["mental-models", "career", "identity", "philosophy", "future", "worldview", "strategy"]
+    },
+    "connections": {
+      "description": "Cross-domain synthesis — linking ideas across articles to extract shared patterns",
+      "tags": ["synthesis", "patterns", "cross-domain", "mental-models", "isomorphism"]
     }
   },
   "entryTemplate": {
